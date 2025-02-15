@@ -1,9 +1,9 @@
-# Global-Supply-Chains and Productivity – Gross Exports, DVA, and Employment**  
+# Global-Supply-Chains and Productivity – Gross Exports, DVA, and Employment 
 
-#### Overview**  
+#### Overview 
 This study builds on existing research to analyze India's participation in Global Value Chains (GVCs) and its impact on gross exports, domestic value-added (DVA), and employment. Using updated data from the OECD TiVA database (2000–2020), we extend the empirical framework of Veeramani and Dhir (2022) to test whether increased GVC integration enhances India's trade and labor market outcomes.  
 
-#### Empirical Strategy**  
+#### Empirical Strategy 
 We use an industry-level panel dataset covering 66 industries across manufacturing, services, and agriculture in India. The study employs the following regression models:  
 
 1. **Gross Exports Model**  
